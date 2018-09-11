@@ -1,2 +1,6 @@
 # Hello-World
-This is a Hello World Repository, i heard its traditional to post this as first Repository.
+public class Hello World{
+  public static void main(String[] args){
+    System.out.println("Hello World");
+    }
+}
